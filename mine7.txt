@@ -1,0 +1,9 @@
+Second line: #rows, #columns. Other lines: F-Floor, S-Start, E-Exit, W-Wall, H-Horizontal Corridor, V-Vertical Corridor, L-Lava
+7 7
+W W W S W W W
+L W F F F W E
+L F F W F W V
+F F F F F W V
+F F W F F W V
+F F W F L L V
+F F F F H H F
